@@ -49,7 +49,6 @@
 }
 
 #highlights {
-  justify-content: center;
   padding: 24px;
   background: linear-gradient(0deg, rgb(227, 255, 253), rgb(202, 243, 240));
 }
@@ -64,9 +63,10 @@
 
 #destinations {
   display: flex;
-  width: 90%;
+  width: 900px;
   margin: auto;
   margin-bottom: 40px;
+  justify-content: center;
 }
 
 .destination {
