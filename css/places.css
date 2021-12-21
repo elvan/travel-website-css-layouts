@@ -8,7 +8,7 @@ header {
 }
 
 main ul {
-  width: 800px;
+  width: 920px;
   margin: 0 auto;
 }
 
@@ -19,6 +19,7 @@ main li {
   box-shadow: 1px 1pc 4px rgba(0, 0, 0, 0.2);
   border-radius: 6px;
   overflow: hidden;
+  width: 460px;
 }
 
 main li img {
